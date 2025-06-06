@@ -1,2 +1,3 @@
 # demo
-this is my firt git repository
+this is my first git repository
+Author:marva meraj
